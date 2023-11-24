@@ -1,0 +1,8 @@
+Model Information:
+* title:	One Piece - The Complete World
+* source:	https://sketchfab.com/3d-models/one-piece-the-complete-world-a35f3f9bc36a46cfa50f123281f17982
+* author:	Paul Briot (https://sketchfab.com/Paul.Briot)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
