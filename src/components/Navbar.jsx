@@ -17,7 +17,7 @@ function Navbar() {
             'text-blue-500' : 'text-black'}>
                 Projects
             </NavLink>
-            <NavLink to='/contct' className={({isActive})=> isActive ?
+            <NavLink to='/contact' className={({isActive})=> isActive ?
             'text-blue-500' : 'text-black'}>
                 Contact
             </NavLink>
