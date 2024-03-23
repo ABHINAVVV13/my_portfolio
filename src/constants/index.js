@@ -271,7 +271,7 @@ export const projects = [
 
             "I made this project quickly track the token details of a wallet address in Solona Blockchain. As other websites UI was not user friendly, too cluttered with unnecessary information and had too many ads.",
 
-            "API's used: Solona API, Shyft API",
+            "API's used: Solona API, Shyft API.",
          
         ],
         link: 'https://abhinavreddyputta.com',
