@@ -1,1 +1,0 @@
-<meta http-equiv="refresh" content="0; url=https://abhinavvv13.github.io/my_portfolio/main.jsx"></meta>
